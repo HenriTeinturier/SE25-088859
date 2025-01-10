@@ -2,6 +2,8 @@
 
 Formation complète sur Git et GitHub, de débutant à avancé.
 
+Support de Cours : [Formation Git & GitHub](https://docs.google.com/presentation/d/1De69yq7WIUw5UlFPui9eBlmyzff1F0JD/edit?usp=sharing&ouid=103623223991073540577&rtpof=true&sd=true)
+
 ## 📚 Table des matières
 
 ### 00 - Introduction
