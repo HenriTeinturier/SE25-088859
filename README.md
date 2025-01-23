@@ -2,8 +2,6 @@
 
 Formation complète sur Git et GitHub, de débutant à avancé.
 
-Support de Cours : [Formation Git & GitHub](https://docs.google.com/presentation/d/1De69yq7WIUw5UlFPui9eBlmyzff1F0JD/edit?usp=sharing&ouid=103623223991073540577&rtpof=true&sd=true)
-
 ## 📚 Table des matières
 
 ### 00 - Introduction
@@ -12,6 +10,7 @@ Support de Cours : [Formation Git & GitHub](https://docs.google.com/presentation
 - [Centralisé vs Distribué](Ressources/00-Introduction/02-centralise-vs-distribue.md)
 - [Git et GitHub : Histoire](Ressources/00-Introduction/03-git-github-histoire.md)
 - [Workflow Git : Exemple](Ressources/00-Introduction/04-workflow-git-exemple.md)
+- [Questionnaires](Ressources/00-Introduction/05-questionnaires.md)
 
 ### 01 - Fondamentaux Git
 
@@ -50,7 +49,7 @@ Support de Cours : [Formation Git & GitHub](https://docs.google.com/presentation
 
 ### Travaux Pratiques
 
-- [Questionnaire Git & GitHub](Exercices/introduction-questionnaire.md) - Testez vos connaissances !
+- [Questionnaire Git & GitHub](Ressources/00-Introduction/05-questionnaires.md) - Testez vos connaissances !
 - [TP1 - Fondamentaux Git](Exercices/tp1-fondamentaux.md)
   - [Correction TP1](Exercices/Corrections/tp1-fondamentaux-correction.md)
 - [TP2 - Manipulation des Commits](Exercices/tp2-commit.md)
@@ -60,6 +59,16 @@ Support de Cours : [Formation Git & GitHub](https://docs.google.com/presentation
 - [TP4 - Gestion des Branches et Conflits](Exercices/tp4-branches.md)
   - [Correction TP4](Exercices/Corrections/tp4-branches-correction.md)
 - [TP Bonus - Le Restaurant Git](Exercices/bonus.md) - Exercice pratique complet
+
+### Bonus
+
+- [Git : Comprendre les interactions avec les dépôts distants](Ressources/bonus/git-remote-operations.md)
+- [Configuration de Git push.default](Ressources/bonus/git-push-default-configuration.md)
+- [Interaction entre fetch, pull, HEAD et branches](Ressources/bonus/interaction-fetch-pull-HEAD-branches.md)
+- [Gestion des connexions Git : SSH et HTTPS](Ressources/bonus/SSH-HTTPS.md)
+- [git config](Ressources/bonus/git-config.md)
+- [Dépannage des problèmes avec Git Remote](Ressources/bonus/git-remote-troubleshooting.md)
+- [Migration de monorepo à multirepo](Ressources/bonus/git-migration-monorepo-multirepo.md)
 
 ## 🎯 Objectifs
 
