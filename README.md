@@ -67,6 +67,7 @@ Formation complète sur Git et GitHub, de débutant à avancé.
 - [Interaction entre fetch, pull, HEAD et branches](Ressources/bonus/interaction-fetch-pull-HEAD-branches.md)
 - [Gestion des connexions Git : SSH et HTTPS](Ressources/bonus/SSH-HTTPS.md)
 - [git config](Ressources/bonus/git-config.md)
+- [git fetch, pull et merge](Ressources/bonus/git-fetch-pull-merge.md)
 - [Dépannage des problèmes avec Git Remote](Ressources/bonus/git-remote-troubleshooting.md)
 - [Migration de monorepo à multirepo](Ressources/bonus/git-migration-monorepo-multirepo.md)
 
